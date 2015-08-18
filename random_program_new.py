@@ -3,7 +3,8 @@ import numpy as np
 
 def myfnc():
 	print "Hello there!"
-	print "My name is Python"
 
-
+def myfnc1():
+	print "Are you ok?"
 myfnc()
+myfnc1()
